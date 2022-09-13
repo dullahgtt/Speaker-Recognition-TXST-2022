@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pyannote-audio-develop",
+    "\\pyannote-audio-develop\\.github",
+    "\\pyannote-audio-develop\\.github\\ISSUE_TEMPLATE",
+    "\\pyannote-audio-develop\\doc",
+    "\\pyannote-audio-develop\\notebook",
+    "\\pyannote-audio-develop\\pyannote",
+    "\\pyannote-audio-develop\\pyannote\\audio",
+    "\\pyannote-audio-develop\\pyannote\\audio\\torchmetrics",
+    "\\pyannote-audio-develop\\pyannote\\audio\\torchmetrics\\audio",
+    "\\pyannote-audio-develop\\pyannote\\audio\\torchmetrics\\functional"
+  ],
+  "SelectedNode": "\\pyannote-audio-develop\\setup.py",
+  "PreviewInSolutionExplorer": false
+}
