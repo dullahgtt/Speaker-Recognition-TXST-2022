@@ -17,6 +17,7 @@ except VersionConflict:
     print("Error: version of setuptools is too old (<38.3)!")
     sys.exit(1)
 
+print("hello")
 
 ROOT_DIR = Path(__file__).parent.resolve()
 # Creating the version file
